@@ -3,11 +3,12 @@
 body {
   padding-top: 70px;
   position: relative;
+  background-color: LightSkyBlue;
 }
 
 .well {
   height: 1500px;
   padding-top: 40px;
-  background-color: LightSkyBlue;
+  background-color: LightCyan;
 }
 
